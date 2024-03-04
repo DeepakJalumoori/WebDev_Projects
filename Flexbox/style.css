@@ -1,0 +1,26 @@
+body {
+    background-color:rgb(93, 127, 120);
+} 
+.menu {
+    display: flex;
+    color: rgb(83, 158, 69);
+    flex-direction: row-reverse;
+    background-color: grey;
+
+}
+.button {
+    height: 60px;
+    width: 150px;
+    font-size: 20px;
+    background-color: black;
+    
+    
+}
+a {
+    text-decoration: none;
+    color: azure;
+}
+.button:hover {
+    background-color: rgb(228, 5, 5);
+    cursor: pointer;
+}

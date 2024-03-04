@@ -52,7 +52,7 @@
     color: white;
     position: absolute;
     width: 100%;
-    top: 80px;
+    top: 70px;
 }
 .sidebar_menu .menu li {
     margin-top: 6px;
@@ -69,7 +69,7 @@
 .sidebar_menu .social_media {
     position: absolute;
     left: 25%;
-    bottom: 50px;
+    bottom: 35px;
 }
 .sidebar_menu .social_media i {
     color: white;
