@@ -1,5 +1,7 @@
 body {
     background-color:rgb(93, 127, 120);
+    padding: 0px;
+    margin: 0px;
 } 
 .menu {
     display: flex;
